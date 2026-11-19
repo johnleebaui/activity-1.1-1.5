@@ -1,0 +1,11 @@
+/* JOHNLEE BAUI 
+BSIT NETSEC 1-1 */
+public class JavaLab3
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Welcome to Java Programming!");
+		System.out.println("I Love Java Programming");
+		System.out.println("Urbano, Christian James");
+	}
+}
